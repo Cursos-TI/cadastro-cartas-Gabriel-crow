@@ -137,4 +137,5 @@ int main() {
     printf("--------------------------------------------------\n");
     printf("Carta Dois: %s, %c%c \n - Área: %2.2lf Km² \n - PIB: %2.3lf \n - População: %d\n", Pais2, Estado2, Cidade2, area2, PIB2, populacao2);
     printf("====================================================\n");
+    return 0;
 }
